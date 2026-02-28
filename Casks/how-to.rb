@@ -2,10 +2,10 @@ cask "how-to" do
   version "0.1.0"
   sha256 "103e261d9a98f231a129c08877962245e1a2b3456900e11e09c544ba049ede0d"
 
-  url "https://github.com/rt-heroku/flowdeck/releases/download/v#{version}/FoundationMenuBar-#{version}.zip"
+  url "https://github.com/rt-heroku/homebrew-how-to/releases/download/v#{version}/FoundationMenuBar-#{version}.zip"
   name "how-to"
   desc "Local AI shell command assistant powered by Apple Foundation Models"
-  homepage "https://github.com/rt-heroku/flowdeck"
+  homepage "https://github.com/rt-heroku/homebrew-how-to"
 
   depends_on macos: ">= :tahoe"
   depends_on arch: :arm64
