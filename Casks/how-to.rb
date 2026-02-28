@@ -1,6 +1,6 @@
 cask "how-to" do
-  version "0.1.1"
-  sha256 "9f5bc81b846a452ef16f39419fdf683bd24de6fdddbe7d8fb8490f18b22d1d59"
+  version "0.1.2"
+  sha256 "d4261c50fb219c39534502c594646124ca72c6999d061d3a99fb358326049658"
 
   url "https://github.com/rt-heroku/homebrew-how-to/releases/download/v#{version}/FoundationMenuBar-#{version}.zip"
   name "how-to"
